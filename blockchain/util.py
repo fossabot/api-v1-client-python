@@ -17,8 +17,7 @@ else:
     from urllib import urlencode
 
 
-def call_api(resource, data=None, base_url=None):
-    base_url = BASE_URL if base_url is None else base_url
+def call_api(resource, data=None, base_url=BASE_URL):
     try:
         payload = None if data is None else urlencode(data)
         if py_version >= 3 and payload is not None:
