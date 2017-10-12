@@ -1,4 +1,6 @@
 # Blockchain API library (Python, v1)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fapi-v1-client-python.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fapi-v1-client-python?ref=badge_shield)
+
 
 An official Python module for interacting with the Blockchain.info API. Compatible with both Python 2 and Python 3.
 
@@ -57,3 +59,7 @@ The same API key can be used to bypass the request limiter.
 [api5]: https://blockchain.info/api/charts_api
 [api6]: https://blockchain.info/api/blockchain_wallet_api
 [api7]: https://blockchain.info/pushtx
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fapi-v1-client-python.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fapi-v1-client-python?ref=badge_large)
